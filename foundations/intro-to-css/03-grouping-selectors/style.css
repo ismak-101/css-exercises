@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.agree {
+    background-color: #000000;
+    color: #ffffffff;
+}
+
+.disagree {
+    background-color: yellow;
+}
+
+.agree, .disagree {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
